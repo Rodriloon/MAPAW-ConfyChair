@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+16ba32c0268556f4c4e1414b6d07b816f6353921 refs/remotes/origin/feature/agregar-revisor
+6e3659485c8cc699aed6153ec7dfe387d4797510 refs/remotes/origin/feature/eliminar-revisor
+0c28830bf45aaef2fa0b72dd2a3374077ab9bf93 refs/remotes/origin/feature/ver-articulos
+08e5e4e833de4bdcf5d5c69f22794a64e4331c00 refs/remotes/origin/feature/ver-revisores-por-articulo
+d5e79cd4238c6a7259895fcf9280655ac0a39ddf refs/remotes/origin/fix/integracion
+2786b7c65f320a2e3304dae57bfb205b9becb669 refs/remotes/origin/grupo-1
+81ccbea8641dc33fc0f6c67d17011e8a29986a27 refs/remotes/origin/grupo-3
+c929feaef04c93c02e198fa481f0d1a459a2b3bf refs/remotes/origin/grupo2
+21707266ccee899a436762391d640b329e8fdac1 refs/remotes/origin/grupo4
+9c5b113855053e5855382f6fd7279a2526d1ac15 refs/remotes/origin/grupo5
+47bb9a17767f3d912542e1637b40360694727c6b refs/remotes/origin/main

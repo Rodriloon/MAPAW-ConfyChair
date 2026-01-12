@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+a0e31025024d9efc115ddb1405807e90bfcda684 refs/remotes/origin/feature/reviewer-assigned-view
+e0fb65fe0b24bb78563ef0033f6de0620dd0f89f refs/remotes/origin/feature/ver-revisores-por-articulo
+8b638fc466f63e818ef5a8e8c2d9828737f8bfd9 refs/remotes/origin/fix/listado-articulos
+c0a2b8c1342fe0930d5d2494a8edd6cd2dbd1a15 refs/remotes/origin/grupo-1
+ccca03a0770a07509839584126148e94ae3cfb35 refs/remotes/origin/grupo-2
+2d2f290dbff4fdfd843ec641b7b75671a7428745 refs/remotes/origin/grupo-3
+3cb1bdc56baca049859d06b4d7d46bb373e8e843 refs/remotes/origin/main
